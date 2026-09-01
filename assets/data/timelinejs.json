@@ -33,7 +33,7 @@
         },
         "text": {
           "headline": {{ item.title | jsonify }}{% if item.description %},
-          "text": {{ item.description | jsonify }}{% endif %}
+          "text": {{ item.biography | jsonify }}{% endif %}
         }
       }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
     ]
