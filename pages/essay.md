@@ -1,5 +1,9 @@
 ---
+<<<<<<< Updated upstream
 title: Essay
+=======
+title: Midwestern Writers
+>>>>>>> Stashed changes
 layout: about
 permalink: /essay.html
 # include CollectionBuilder info at bottom
@@ -8,6 +12,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+<<<<<<< Updated upstream
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Where is the Midwest?
@@ -16,3 +21,7 @@ add more about why we chose these authors and how we defined the Midwest
 ## What do they have in common?
 
 ## Why Should I Care?
+=======
+## Who Counts as a Midwestern Writer?
+this is where I would add more
+>>>>>>> Stashed changes
