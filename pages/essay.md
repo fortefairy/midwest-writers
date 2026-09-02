@@ -12,6 +12,8 @@ credits: true
 
 ## Where is the Midwest?
 add more about why we chose these authors and how we defined the Midwest
+- fact one
+- fact
 {% include feature/image.html objectid="coll001" width="50" %}
 ## Why These Authors?
 {% include feature/timelinejs.html %}
